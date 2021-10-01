@@ -132,9 +132,9 @@ section {
 }
 
 /* home section styling */
-.home h1{
-    position : absolute ;
-    right : 40px;
+.heading h1 {
+    position: absolute;
+    right: 40px;
 }
 
 .home {
